@@ -27,6 +27,7 @@ Run the following commands in the command-line in the root of the folder
 7. Continue to add and subtract funds as you make transactions
 
 # Screenshot
+
 ![pic_](https://user-images.githubusercontent.com/101817569/192072040-d483dc6e-b17f-4cc6-a22d-75ed2b3c49d7.jpeg)
 
 
