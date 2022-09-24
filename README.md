@@ -27,7 +27,8 @@ Run the following commands in the command-line in the root of the folder
 7. Continue to add and subtract funds as you make transactions
 
 # Screenshot
-![Pic_screenshot-Budget-Tracker Medium Small Small Medium](https://user-images.githubusercontent.com/101817569/192071841-7ad39dae-5812-46b3-a8c7-320b918e7770.jpeg)
+![Pic_screenshot-Budget-Tracker Medium Small Small Medium 2](https://user-images.githubusercontent.com/101817569/192071905-34a5f1bb-d826-4fc8-a667-904c74bdb780.jpeg)
+
 
 
 
